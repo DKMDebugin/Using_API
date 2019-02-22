@@ -19,7 +19,7 @@ Then renders it to an svg file (hn_submission.svg) in the project dir which you 
 
 - The function most_starred_project() in programming_lang.py uses GitHub API to get data on the top projects
 on a list of languages & visualizes the data. The visualization for each language is rendered to an svg
-file which takes the name "<language name>_repos.svg".
+file which takes the name "*language name*_repos.svg".
 
 - test_programming-lang.py creates a test based on the get_status_code() function in programming_lang.py
 
